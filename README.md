@@ -27,3 +27,7 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 - Azure ChatBot useful for both learners and explorers.
 - Main concept that my bot gives;About Azure,how it works, history, full forms and detailed view of Azure.
 
+### Screenshorts:
+## Home Page 
+![homepage](https://user-images.githubusercontent.com/110820099/189345964-1b4ac1a3-89f9-41ea-acfa-8eb6a62f4fde.png)
+
